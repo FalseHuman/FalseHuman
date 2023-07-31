@@ -14,7 +14,7 @@
 - [x] **SMK--2.0** Project on Django and Nuxt JS, for Salavat Medical College
 - [x] **Blog-on-Vue-and-Django** The project is my personal blog
 
-📫 How to reach me: emilkhazioff@gmail.com
+📫 How to reach me: emilkhazioff@yandex.com
 <!--
 **FalseHuman/FalseHuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
