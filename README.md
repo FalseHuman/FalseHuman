@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on:
 - [x] **Snabio** Project on Django, for [Snabio](https://snabio.ru)
-- [x] **Blog-on-Vue-and-Django** The project is my personal blog
+- [x] **Zaotdih** Project on Django, for [Zaotdih](https://zaotdih.ru)
 
 📫 How to reach me: emilkhazioff@yandex.com
 <!--
