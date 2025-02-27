@@ -13,6 +13,7 @@
 🔭 I’m currently working on:
 - [x] **Snabio** Project on Django, for [Snabio](https://snabio.ru)
 - [x] **Zaotdih** Project on Django, for [Zaotdih](https://zaotdih.ru)
+- [ ] **NDA** Project on FastAPI/Supabase
 
 📫 How to reach me: emilkhazioff@yandex.com
 <!--
