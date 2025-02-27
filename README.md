@@ -11,7 +11,7 @@
 ![Django](https://img.shields.io/pypi/djversions/djangorestframework)
 
 🔭 I’m currently working on:
-- [x] **SMK--2.0** Project on Django and Nuxt JS, for Salavat Medical College
+- [x] **Snabio** Project on Django, for [Snabio](https://snabio.ru)
 - [x] **Blog-on-Vue-and-Django** The project is my personal blog
 
 📫 How to reach me: emilkhazioff@yandex.com
